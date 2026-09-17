@@ -181,8 +181,4 @@ This project demonstrates how data analytics can be used to:
 
 ---
 
-## Author
 
-Varayuru Pranava Samhitha
-
-Skills: Python, SQL, Power BI, Data Visualization, Business Analytics
